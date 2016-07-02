@@ -2,4 +2,9 @@ hello!!! That's another txt file just to check how git and github communicate to
 
 i am doing this while being in the aure branch
 
-doing this to make a conflict
+this is done to create a conflict
+
+conflict cleared
+
+
+hourray
